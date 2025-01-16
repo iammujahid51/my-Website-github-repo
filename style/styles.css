@@ -343,3 +343,22 @@ align-items: center;
   margin-right:250px ;
 
 }
+.now{
+  text-align: center;
+  align-items: center;
+  margin-top: 20px;
+ 
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  padding: 15px 25px;
+  background-color: #006A50;
+  border-radius: 10px;
+  color: #FFFFFF;
+  /* margin-left: 700px;
+  margin-right: 700px; */
+ 
+}
+.high{
+  text-align: center;
+}
